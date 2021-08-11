@@ -1,0 +1,8290 @@
+[
+  {
+    "node": 1,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 2,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 3,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 4,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 5,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 6,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 7,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 8,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 9,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 10,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 11,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 12,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 13,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 14,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 15,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 16,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 17,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 18,
+    "sex": 1,
+    "race": 3,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 19,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 20,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 21,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 22,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 23,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 24,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 25,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 26,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 27,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 28,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 29,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 30,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 31,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 32,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 33,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 34,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 35,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 36,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 37,
+    "sex": 1,
+    "race": 3,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 38,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 39,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 40,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 41,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 42,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 43,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 44,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 45,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 46,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 47,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 48,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 49,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 50,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 51,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 52,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 53,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 54,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 55,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 56,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 57,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 58,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 59,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 60,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 61,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 62,
+    "sex": 2,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 63,
+    "sex": 0,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 64,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 65,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 66,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 67,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 68,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 69,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 70,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 71,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 72,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 73,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 74,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 75,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 76,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 77,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 78,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 79,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 80,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 81,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 82,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 83,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 84,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 85,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 86,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 87,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 88,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 89,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 90,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 91,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 92,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 93,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 94,
+    "sex": 2,
+    "race": 0,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 95,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 96,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 97,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 98,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 99,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 100,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 101,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 102,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 103,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 104,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 105,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 106,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 107,
+    "sex": 1,
+    "race": 3,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 108,
+    "sex": 1,
+    "race": 4,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 109,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 110,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 111,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 112,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 113,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 114,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 115,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 116,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 117,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 118,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 119,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 120,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 121,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 122,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 123,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 124,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 125,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 126,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 127,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 128,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 129,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 130,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 131,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 132,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 133,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 134,
+    "sex": 1,
+    "race": 3,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 135,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 136,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 137,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 138,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 139,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 140,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 141,
+    "sex": 1,
+    "race": 0,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 142,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 143,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 144,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 145,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 146,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 147,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 148,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 149,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 150,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 151,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 152,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 153,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 154,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 155,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 156,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 157,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 158,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 159,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 160,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 161,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 162,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 163,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 164,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 165,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 166,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 167,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 168,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 169,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 170,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 171,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 172,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 173,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 174,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 175,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 176,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 177,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 178,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 179,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 180,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 181,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 182,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 183,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 184,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 185,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 186,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 187,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 188,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 189,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 190,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 191,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 192,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 193,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 194,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 195,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 196,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 197,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 198,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 199,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 200,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 201,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 202,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 203,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 204,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 205,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 206,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 207,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 208,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 209,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 210,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 211,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 212,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 213,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 214,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 215,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 216,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 217,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 218,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 219,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 220,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 221,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 222,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 223,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 224,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 225,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 226,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 227,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 228,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 229,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 230,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 231,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 232,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 233,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 234,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 235,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 236,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 237,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 238,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 239,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 240,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 241,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 242,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 243,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 244,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 245,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 246,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 247,
+    "sex": 1,
+    "race": 4,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 248,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 249,
+    "sex": 1,
+    "race": 5,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 250,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 251,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 252,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 253,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 254,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 255,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 256,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 257,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 258,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 259,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 260,
+    "sex": 2,
+    "race": 4,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 261,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 262,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 263,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 264,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 265,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 266,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 267,
+    "sex": 2,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 268,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 269,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 270,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 271,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 272,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 273,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 274,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 275,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 276,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 277,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 278,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 279,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 280,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 281,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 282,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 283,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 284,
+    "sex": 2,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 285,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 286,
+    "sex": 2,
+    "race": 4,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 287,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 288,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 289,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 290,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 291,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 292,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 293,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 294,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 295,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 296,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 297,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 298,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 299,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 300,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 301,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 302,
+    "sex": 2,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 303,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 304,
+    "sex": 1,
+    "race": 3,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 305,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 306,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 307,
+    "sex": 2,
+    "race": 3,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 308,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 309,
+    "sex": 2,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 310,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 311,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 312,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 313,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 314,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 315,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 316,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 317,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 318,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 319,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 320,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 321,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 322,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 323,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 324,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 325,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 326,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 327,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 328,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 329,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 330,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 331,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 332,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 333,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 334,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 335,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 336,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 337,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 338,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 339,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 340,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 341,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 342,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 343,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 344,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 345,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 346,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 347,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 348,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 349,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 350,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 351,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 352,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 353,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 354,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 355,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 356,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 357,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 358,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 359,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 360,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 361,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 362,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 363,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 364,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 365,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 366,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 367,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 368,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 369,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 370,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 371,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 372,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 373,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 374,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 375,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 376,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 377,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 378,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 379,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 380,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 381,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 382,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 383,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 384,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 385,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 386,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 387,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 388,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 389,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 390,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 391,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 392,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 393,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 394,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 395,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 396,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 397,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 398,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 399,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 400,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 401,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 402,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 403,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 404,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 405,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 406,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 407,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 408,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 409,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 410,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 411,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 412,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 413,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 414,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 415,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 416,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 417,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 418,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 419,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 420,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 421,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 422,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 423,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 424,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 425,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 426,
+    "sex": 1,
+    "race": 5,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 427,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 428,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 429,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 430,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 431,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 432,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 433,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 434,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 435,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 436,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 437,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 438,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 439,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 440,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 441,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 442,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 443,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 444,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 445,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 446,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 447,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 448,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 449,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 450,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 451,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 452,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 453,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 454,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 455,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 456,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 457,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 458,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 459,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 460,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 461,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 462,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 463,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 464,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 465,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 466,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 467,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 468,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 469,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 470,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 471,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 472,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 473,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 474,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 475,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 476,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 477,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 478,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 479,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 480,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 481,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 482,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 483,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 484,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 485,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 486,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 487,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 488,
+    "sex": 1,
+    "race": 2,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 489,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 490,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 491,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 492,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 493,
+    "sex": 2,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 494,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 495,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 496,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 497,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 498,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 499,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 500,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 501,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 502,
+    "sex": 2,
+    "race": 3,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 503,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 504,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 505,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 506,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 507,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 508,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 509,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 510,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 511,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 512,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 513,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 514,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 515,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 516,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 517,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 518,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 519,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 520,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 521,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 522,
+    "sex": 2,
+    "race": 1,
+    "grade": 0,
+    "school": 1
+  },
+  {
+    "node": 523,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 524,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 525,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 526,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 527,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 528,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 529,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 530,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 531,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 532,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 533,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 534,
+    "sex": 2,
+    "race": 0,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 535,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 536,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 537,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 538,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 539,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 540,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 541,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 542,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 543,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 544,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 545,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 546,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 547,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 548,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 549,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 550,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 551,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 552,
+    "sex": 2,
+    "race": 5,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 553,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 554,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 555,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 556,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 557,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 558,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 559,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 560,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 561,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 562,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 563,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 564,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 565,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 566,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 567,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 568,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 569,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 570,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 571,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 572,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 573,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 574,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 575,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 576,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 577,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 578,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 579,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 580,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 581,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 582,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 583,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 584,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 585,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 586,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 587,
+    "sex": 1,
+    "race": 1,
+    "grade": 0,
+    "school": 1
+  },
+  {
+    "node": 588,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 589,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 590,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 591,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 592,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 593,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 594,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 595,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 596,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 597,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 598,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 599,
+    "sex": 1,
+    "race": 2,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 600,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 601,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 602,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 603,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 604,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 605,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 606,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 607,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 608,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 609,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 610,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 611,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 612,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 613,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 614,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 615,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 616,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 617,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 618,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 619,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 620,
+    "sex": 1,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 621,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 622,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 623,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 624,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 625,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 626,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 627,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 628,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 629,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 630,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 631,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 632,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 633,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 634,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 635,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 636,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 637,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 638,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 639,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 640,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 641,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 642,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 643,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 644,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 645,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 646,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 647,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 648,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 649,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 650,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 651,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 652,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 653,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 654,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 655,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 656,
+    "sex": 2,
+    "race": 3,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 657,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 658,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 659,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 660,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 661,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 662,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 663,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 664,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 665,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 666,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 667,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 668,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 669,
+    "sex": 2,
+    "race": 5,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 670,
+    "sex": 1,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 671,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 672,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 673,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 674,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 675,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 676,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 677,
+    "sex": 2,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 678,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 679,
+    "sex": 2,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 680,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 681,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 682,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 683,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 684,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 685,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 686,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 687,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 688,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 689,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 690,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 691,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 692,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 693,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 694,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 695,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 696,
+    "sex": 0,
+    "race": 0,
+    "grade": 0,
+    "school": 1
+  },
+  {
+    "node": 697,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 698,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 699,
+    "sex": 2,
+    "race": 5,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 700,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 701,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 702,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 703,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 704,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 705,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 706,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 707,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 708,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 709,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 710,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 711,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 712,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 713,
+    "sex": 1,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 714,
+    "sex": 2,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 715,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 716,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 717,
+    "sex": 1,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 718,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 719,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 720,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 721,
+    "sex": 1,
+    "race": 3,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 722,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 723,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 724,
+    "sex": 2,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 725,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 726,
+    "sex": 1,
+    "race": 3,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 727,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 728,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 729,
+    "sex": 2,
+    "race": 5,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 730,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 731,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 732,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 733,
+    "sex": 1,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 734,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 735,
+    "sex": 2,
+    "race": 1,
+    "grade": 10,
+    "school": 1
+  },
+  {
+    "node": 736,
+    "sex": 1,
+    "race": 1,
+    "grade": 12,
+    "school": 1
+  },
+  {
+    "node": 737,
+    "sex": 2,
+    "race": 1,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 738,
+    "sex": 2,
+    "race": 1,
+    "grade": 9,
+    "school": 1
+  },
+  {
+    "node": 739,
+    "sex": 1,
+    "race": 5,
+    "grade": 11,
+    "school": 1
+  },
+  {
+    "node": 740,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 741,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 742,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 743,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 744,
+    "sex": 1,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 745,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 746,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 747,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 748,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 749,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 750,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 751,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 752,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 753,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 754,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 755,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 756,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 757,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 758,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 759,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 760,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 761,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 762,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 763,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 764,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 765,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 766,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 767,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 768,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 769,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 770,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 771,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 772,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 773,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 774,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 775,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 776,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 777,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 778,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 779,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 780,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 781,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 782,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 783,
+    "sex": 2,
+    "race": 0,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 784,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 785,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 786,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 787,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 788,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 789,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 790,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 791,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 792,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 793,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 794,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 795,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 796,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 797,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 798,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 799,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 800,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 801,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 802,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 803,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 804,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 805,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 806,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 807,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 808,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 809,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 810,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 811,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 812,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 813,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 814,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 815,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 816,
+    "sex": 2,
+    "race": 0,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 817,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 818,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 819,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 820,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 821,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 822,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 823,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 824,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 825,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 826,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 827,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 828,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 829,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 830,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 831,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 832,
+    "sex": 2,
+    "race": 1,
+    "grade": 0,
+    "school": 0
+  },
+  {
+    "node": 833,
+    "sex": 2,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 834,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 835,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 836,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 837,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 838,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 839,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 840,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 841,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 842,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 843,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 844,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 845,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 846,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 847,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 848,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 849,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 850,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 851,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 852,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 853,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 854,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 855,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 856,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 857,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 858,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 859,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 860,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 861,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 862,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 863,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 864,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 865,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 866,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 867,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 868,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 869,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 870,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 871,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 872,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 873,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 874,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 875,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 876,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 877,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 878,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 879,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 880,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 881,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 882,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 883,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 884,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 885,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 886,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 887,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 888,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 889,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 890,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 891,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 892,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 893,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 894,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 895,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 896,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 897,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 898,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 899,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 900,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 901,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 902,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 903,
+    "sex": 1,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 904,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 905,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 906,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 907,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 908,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 909,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 910,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 911,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 912,
+    "sex": 2,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 913,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 914,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 915,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 916,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 917,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 918,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 919,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 920,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 921,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 922,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 923,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 924,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 925,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 926,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 927,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 928,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 929,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 930,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 931,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 932,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 933,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 934,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 935,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 936,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 937,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 938,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 939,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 940,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 941,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 942,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 943,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 944,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 945,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 946,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 947,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 948,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 949,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 950,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 951,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 952,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 953,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 954,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 955,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 956,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 957,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 958,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 959,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 960,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 961,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 962,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 963,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 964,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 965,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 966,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 967,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 968,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 969,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 970,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 971,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 972,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 973,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 974,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 975,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 976,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 977,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 978,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 979,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 980,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 981,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 982,
+    "sex": 0,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 983,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 984,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 985,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 986,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 987,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 988,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 989,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 990,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 991,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 992,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 993,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 994,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 995,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 996,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 997,
+    "sex": 1,
+    "race": 4,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 998,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 999,
+    "sex": 1,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1000,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1001,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1002,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1003,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1004,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1005,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1006,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1007,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1008,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1009,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1010,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1011,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1012,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1013,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1014,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1015,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1016,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1017,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1018,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1019,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1020,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1021,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1022,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1023,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1024,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1025,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1026,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1027,
+    "sex": 2,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1028,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1029,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1030,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1031,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1032,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1033,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1034,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1035,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1036,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1037,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1038,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1039,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1040,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1041,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1042,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1043,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1044,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1045,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1046,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1047,
+    "sex": 1,
+    "race": 0,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1048,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1049,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1050,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1051,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1052,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1053,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1054,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1055,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1056,
+    "sex": 1,
+    "race": 0,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1057,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1058,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1059,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1060,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1061,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1062,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1063,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1064,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1065,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1066,
+    "sex": 2,
+    "race": 4,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1067,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1068,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1069,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1070,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1071,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1072,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1073,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1074,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1075,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1076,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1077,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1078,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1079,
+    "sex": 1,
+    "race": 0,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1080,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1081,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1082,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1083,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1084,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1085,
+    "sex": 1,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1086,
+    "sex": 2,
+    "race": 0,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1087,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1088,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1089,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1090,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1091,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1092,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1093,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1094,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1095,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1096,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1097,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1098,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1099,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1100,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1101,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1102,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1103,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1104,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1105,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1106,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1107,
+    "sex": 1,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1108,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1109,
+    "sex": 0,
+    "race": 0,
+    "grade": 0,
+    "school": 0
+  },
+  {
+    "node": 1110,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1111,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1112,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1113,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1114,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1115,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1116,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1117,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1118,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1119,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1120,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1121,
+    "sex": 2,
+    "race": 0,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1122,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1123,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1124,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1125,
+    "sex": 2,
+    "race": 3,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1126,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1127,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1128,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1129,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1130,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1131,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1132,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1133,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1134,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1135,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1136,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1137,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1138,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1139,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1140,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1141,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1142,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1143,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1144,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1145,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1146,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1147,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1148,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1149,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1150,
+    "sex": 1,
+    "race": 2,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1151,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1152,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1153,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1154,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1155,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1156,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1157,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1158,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1159,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1160,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1161,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1162,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1163,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1164,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1165,
+    "sex": 1,
+    "race": 3,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1166,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1167,
+    "sex": 1,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1168,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1169,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1170,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1171,
+    "sex": 2,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1172,
+    "sex": 1,
+    "race": 5,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1173,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1174,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1175,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1176,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1177,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1178,
+    "sex": 2,
+    "race": 5,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1179,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1180,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1181,
+    "sex": 1,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1182,
+    "sex": 2,
+    "race": 1,
+    "grade": 8,
+    "school": 0
+  },
+  {
+    "node": 1183,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  },
+  {
+    "node": 1184,
+    "sex": 2,
+    "race": 1,
+    "grade": 7,
+    "school": 0
+  }
+]
