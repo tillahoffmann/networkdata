@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="int" />
+  <key id="grade" for="node" attr.name="grade" attr.type="int" />
+  <key id="race" for="node" attr.name="race" attr.type="string" />
+  <key id="sex" for="node" attr.name="sex" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="1">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="3">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="4">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="18">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="21">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="34">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="36">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="44">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="2">
+      <data key="sex">male</data>
+      <data key="race">hispanic</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="9">
+      <data key="sex">unknown</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="14">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="16">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="17">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="33">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="42">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="28">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="29">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="35">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="40">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="6">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="25">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="26">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="30">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="5">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="19">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="22">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="7">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="15">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="27">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="32">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="8">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="11">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="12">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="10">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="43">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="13">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="37">
+      <data key="sex">female</data>
+      <data key="race">hispanic</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="20">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="23">
+      <data key="sex">male</data>
+      <data key="race">unknown</data>
+      <data key="grade">8</data>
+    </node>
+    <node id="24">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="38">
+      <data key="sex">female</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="39">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="31">
+      <data key="sex">female</data>
+      <data key="race">unknown</data>
+      <data key="grade">7</data>
+    </node>
+    <node id="41">
+      <data key="sex">male</data>
+      <data key="race">white</data>
+      <data key="grade">8</data>
+    </node>
+    <edge source="1" target="3">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="1" target="4">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="1" target="18">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="1" target="21">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="1" target="34">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="1" target="36">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="1" target="44">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="3" target="1">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="3" target="28">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="3" target="29">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="3" target="33">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="3" target="34">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="3" target="35">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="3" target="40">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="4" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="4" target="3">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="4" target="14">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="4" target="25">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="4" target="26">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="4" target="29">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="4" target="30">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="4" target="34">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="18" target="6">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="18" target="8">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="18" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="18" target="26">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="18" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="18" target="33">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="18" target="37">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="18" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="21" target="1">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="2">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="5">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="8">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="18">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="33">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="42">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="21" target="44">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="34" target="3">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="34" target="5">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="34" target="9">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="34" target="20">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="34" target="29">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="36" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="36" target="3">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="36" target="12">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="36" target="13">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="36" target="17">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="36" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="36" target="35">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="36" target="37">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="2" target="9">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="2" target="14">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="2" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="2" target="17">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="2" target="21">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="2" target="33">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="2" target="36">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="2" target="42">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="2" target="44">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="9" target="3">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="11">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="12">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="9" target="17">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="18">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="36">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="9" target="44">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="14" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="14" target="2">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="14" target="9">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="14" target="12">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="14" target="13">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="14" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="14" target="33">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="17" target="2">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="17" target="5">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="17" target="12">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="17" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="17" target="19">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="17" target="22">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="17" target="36">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="17" target="40">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="33" target="2">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="33" target="8">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="33" target="16">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="33" target="18">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="33" target="21">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="33" target="28">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="33" target="42">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="33" target="44">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="42" target="2">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="42" target="8">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="42" target="16">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="42" target="33">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="28" target="3">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="28" target="11">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="28" target="16">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="28" target="17">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="28" target="27">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="28" target="33">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="29" target="3">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="29" target="4">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="29" target="18">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="29" target="37">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="35" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="3">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="12">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="13">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="17">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="35" target="36">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="35" target="37">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="40" target="17">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="6" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="6" target="4">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="6" target="26">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="6" target="30">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="6" target="34">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="6" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="25" target="4">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="25" target="10">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="25" target="30">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="25" target="36">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="25" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="25" target="43">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="26" target="1">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="26" target="4">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="26" target="6">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="26" target="18">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="26" target="30">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="26" target="32">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="26" target="34">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="26" target="39">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="26" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="30" target="1">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="30" target="4">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="30" target="6">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="30" target="12">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="30" target="25">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="30" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="30" target="40">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="30" target="43">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="5" target="1">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="5" target="16">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="5" target="17">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="5" target="19">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="5" target="21">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="5" target="22">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="5" target="33">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="5" target="34">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="5" target="44">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="22" target="5">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="22" target="20">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="22" target="21">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="7" target="15">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="7" target="17">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="7" target="19">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="7" target="27">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="7" target="32">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="15" target="10">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="15" target="11">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="15" target="32">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="15" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="15" target="43">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="27" target="7">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="27" target="8">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="27" target="11">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="32" target="7">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="32" target="10">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="32" target="11">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="32" target="15">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="32" target="17">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="32" target="19">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="32" target="26">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="32" target="27">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="8" target="27">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="8" target="33">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="8" target="42">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="11" target="15">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="11" target="32">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="11" target="33">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="11" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="12" target="17">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="12" target="30">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="12" target="36">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="10" target="7">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="11">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="15">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="25">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="32">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="36">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="40">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="10" target="43">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="43" target="10">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="43" target="15">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="43" target="25">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="43" target="40">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="13" target="12">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="13" target="14">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="13" target="36">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="37" target="1">
+      <data key="weight">4</data>
+    </edge>
+    <edge source="37" target="3">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="37" target="18">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="37" target="20">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="37" target="29">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="37" target="34">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="37" target="35">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="37" target="36">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="37" target="39">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="37" target="44">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="20" target="5">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="20" target="16">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="20" target="19">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="20" target="21">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="20" target="22">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="20" target="33">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="20" target="34">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="23" target="5">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="23" target="9">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="23" target="18">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="23" target="19">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="23" target="20">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="23" target="21">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="24" target="28">
+      <data key="weight">6</data>
+    </edge>
+    <edge source="24" target="36">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="24" target="38">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="38" target="24">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="38" target="31">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="38" target="36">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="39" target="3">
+      <data key="weight">3</data>
+    </edge>
+    <edge source="39" target="6">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="39" target="18">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="39" target="29">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="39" target="30">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="39" target="35">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="39" target="36">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="39" target="37">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="39" target="40">
+      <data key="weight">5</data>
+    </edge>
+    <edge source="31" target="4">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="31" target="6">
+      <data key="weight">1</data>
+    </edge>
+    <edge source="31" target="24">
+      <data key="weight">2</data>
+    </edge>
+    <edge source="31" target="26">
+      <data key="weight">1</data>
+    </edge>
+  </graph>
+</graphml>
