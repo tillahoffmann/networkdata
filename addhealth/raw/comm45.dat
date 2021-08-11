@@ -1,6 +1,6 @@
 DL
 N=1047
-FORMAT=EDGRLIST1
+FORMAT=EDGELIST1
 DATA:
         3    287  1.00
         3    624  6.00

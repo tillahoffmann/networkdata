@@ -1,5 +1,7 @@
 DL
 N=1216
+FORMAT=EDGELIST1
+DATA:
         1     93  1.00
         1    142  3.00
         1    259  4.00
